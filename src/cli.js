@@ -33,7 +33,7 @@ options:
 	-o --overwrite\tOverwrite files.
 	--prettier\tInstall prettier files.
 	--tslint\tInstall tslint files.
-	--editorconfig\tInstall editorconfig files`);
+	--editorconfig\tInstall editorconfig files.`);
 }
 
 export function cli(args) {
